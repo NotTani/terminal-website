@@ -1,0 +1,4 @@
+./src/assets/styles.css
+package-lock.json
+node_modules/*
+.idea/*
