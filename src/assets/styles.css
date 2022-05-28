@@ -476,8 +476,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin: 0px;
 }
 
-.mr-2 {
-  margin-right: 0.5rem;
+.mr-\[10px\] {
+  margin-right: 10px;
 }
 
 .flex {
